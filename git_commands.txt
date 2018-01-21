@@ -1,0 +1,3 @@
+commands for github 
+after creating  a repo click on clone or download and then copy the link 
+go to git bash and type "git clone and paste the code."
