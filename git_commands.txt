@@ -1,3 +1,8 @@
 commands for github 
 after creating  a repo click on clone or download and then copy the link 
 go to git bash and type "git clone and paste the code."
+type cd name of the repo
+git add to add the file in your repo 
+git status to check the progress
+git push to put the file online on a remote directory
+check for update on github.
