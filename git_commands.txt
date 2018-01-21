@@ -8,3 +8,4 @@ git commit to makes changes to your local directory and add message using -m 'me
 git push to put the file online on a remote directory
 check for update on github.
 now i ll make some changes
+so i try making thing different now
