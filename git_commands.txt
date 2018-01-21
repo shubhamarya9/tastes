@@ -7,8 +7,5 @@ git status to check the progress
 git commit to makes changes to your local directory and add message using -m 'message'
 git push to put the file online on a remote directory
 check for update on github.
-<<<<<<< HEAD
 now i ll make some changes
 so i try making thing different now
-=======
->>>>>>> parent of 6b13aa2... Temporary change
