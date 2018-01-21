@@ -7,3 +7,4 @@ git status to check the progress
 git commit to makes changes to your local directory and add message using -m 'message'
 git push to put the file online on a remote directory
 check for update on github.
+now i ll make some changes
